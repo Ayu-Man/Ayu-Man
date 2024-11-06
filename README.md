@@ -1,6 +1,6 @@
-I’m AyanawMengesha
+I’m Ayanaw Mengesha
 I’m interested in web development
-I’m currently learning basics of web dev
+I learns the basics of web development.
 
 
 <!---
